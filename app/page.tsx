@@ -17,6 +17,12 @@ export default function Home() {
           <li className="mb-2">
             BlazeChron&apos;s site WIP using next.js
           </li>
+          <li className="mb-2">
+            <a href="https://github.com/BlazeChron">Github</a>
+          </li>
+          <li className="mb-2">
+            <a href="https://blazechron.itch.io/">itch</a>
+          </li>
         </ol>
 
         <div className="flex gap-4 items-center flex-col sm:flex-row">
