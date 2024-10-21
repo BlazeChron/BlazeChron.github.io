@@ -1,5 +1,5 @@
 import Image from "next/image";
-import Shimaenaga from "./shimaenaga.png";
+import Shimaenaga from "../app/shimaenaga.png";
 
 export default function Home() {
   return (
