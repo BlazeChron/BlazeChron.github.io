@@ -13,7 +13,11 @@ export default function Home() {
             width={180}
             height={38}
             priority
-            style={{alignSelf: 'center'}}
+            style={{
+              alignSelf: 'center',
+              borderRadius: 20,
+              transform: 'rotate(0deg)'
+            }}
           />
         <ul className="list-inside list-decimal text-sm text-center sm:text-left font-[family-name:var(--font-geist-mono)]">
             BlazeChron&apos;s site WIP using next.js
